@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Estudo na <strong>Escola Giovani Trentini</strong> | 🧒 Tenho 15 anos | 🐣 Sou iniciante em programação, mas com muita vontade de aprender e crescer.
+  🎓 Estudante na <strong>Escola Giovani Trentini</strong> | 🧒 15 anos | 🐣 Iniciante em Programação
 </p>
 
 ---
@@ -29,14 +29,14 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:anthony.pietro@gmail.com">
+  <a href="mailto:SEUEMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/devellendias/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/anthonydev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/anthonydev?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/SEUTWITTER" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/SEUTWITTER?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonydev&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUGITHUB&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 💬 Sobre Mim
 
 <p align="center">
-  Olá! Meu nome é <strong>Anthony Pietro da Silva</strong>, tenho 15 anos e sou estudante na <strong>Escola Giovani Trentini</strong>. Atualmente estou começando minha jornada no mundo da programação, aprendendo linguagens como <strong>Java, Python, JavaScript, C e PHP</strong>. <br><br>
-  Sou apaixonado por tecnologia e estou sempre buscando aprender mais, desenvolver projetos, colaborar com outras pessoas e crescer na área. Tenho como objetivo me tornar um profissional de destaque no mundo da programação e contribuir para o futuro da tecnologia. <br><br>
-  Estou aberto a colaborações, sugestões, parcerias e trocas de conhecimento. Fique à vontade para me chamar! 😊
+  Tenho 15 anos e sou apaixonado por tecnologia desde cedo. Atualmente estudo na <strong>Escola Giovani Trentini</strong> e estou dando meus primeiros passos no mundo da programação. <br><br>
+  Estou sempre buscando aprender mais e crescer como desenvolvedor. Meu objetivo é me tornar um profissional de destaque na área da tecnologia. <br><br>
+  Se quiser bater um papo, tirar dúvidas ou propor uma colaboração, estou à disposição! 😊
 </p>
